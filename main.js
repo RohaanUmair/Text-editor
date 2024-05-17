@@ -78,9 +78,9 @@ function fontSansSerif(){
     text.style.fontFamily = 'sans-serif';
 }
 
-function fontArial(){
-    headingText.style.fontFamily = 'arial';
-    text.style.fontFamily = 'arial';
+function fontCambria(){
+    headingText.style.fontFamily = 'cambria';
+    text.style.fontFamily = 'cambria';
 }
 
 function fontCursive(){
